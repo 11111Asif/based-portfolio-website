@@ -1,4 +1,4 @@
-import vector from '../../assets/Vector.png'
+import group from '../../assets/Group.png'
 import { MdOutlineFileDownload } from "react-icons/md";
 
 const Header = () => {
@@ -31,7 +31,7 @@ const Header = () => {
                         </ul>
                     </div>
                     <div className='flex gap-2'>
-                        <img src={vector} alt="" className='' />
+                        <img src={group} alt="" className='' />
                         <a className="btn btn-ghost text-2xl font-extrabold text-black">Personal</a>
                     </div>
                 </div>
