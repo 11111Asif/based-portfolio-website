@@ -34,7 +34,7 @@ const Form = () => {
                                 <textarea className="lg:w-[500px] w-[320px] h-[140px] bg-white border-2 border-black rounded-md py-4 px-4" placeholder="How can I help?*" required></textarea>
                             </div>
 
-                            <div className='flex gap-5'>
+                            <div className='lg:flex gap-5'>
                                 <div className="form-control mt-6 w-[173px] h-[56px] rounded-md bg-black">
                                     <button className="text-white py-4 px-10">Get In Touch</button>
                                 </div>
