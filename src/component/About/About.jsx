@@ -9,7 +9,7 @@ const About = () => {
                         src={column}
                         className="lg:w-[525px] lg:h-[572px] w-[343px] h-[374px] rounded-lg shadow-2xl" />
                     <div>
-                        <h1 className="text-5xl text-black">About <span className="font-bold">Me</span></h1>
+                        <h1 className="text-5xl text-black">My <span className="font-bold">About</span></h1>
                         <p className="lg:py-6 py-3 text-[#71717A]">
                             I'm a passionate, self-proclaimed designer who specializes in full stack development (React.js & Node.js). I am very enthusiastic about bringing the technical and visual aspects of digital products to life. User experience, pixel perfect design, and writing clear, readable, highly performant code matters to me.
                         </p>
