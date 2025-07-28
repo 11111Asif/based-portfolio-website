@@ -4,6 +4,7 @@ import Experience from "../Experience/Experience";
 import Header from "../Header/Header";
 import MyProjects from "../MyProjects/MyProjects";
 import Skills from "../Skills/Skills";
+import Testimonial from "../Testimonial/Testimonial";
 
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
             <Experience></Experience>
             <About></About>
             <MyProjects></MyProjects>
+            <Testimonial></Testimonial>
         </div>
     );
 };
