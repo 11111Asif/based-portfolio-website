@@ -1,4 +1,5 @@
 import Banner from "../Banner/Banner";
+import Experience from "../Experience/Experience";
 import Header from "../Header/Header";
 import Skills from "../Skills/Skills";
 
@@ -9,6 +10,7 @@ const Home = () => {
             <Header></Header>
             <Banner></Banner>
             <Skills></Skills>
+            <Experience></Experience>
         </div>
     );
 };
