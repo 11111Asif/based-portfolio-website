@@ -12,9 +12,9 @@ const Experience = () => {
                         <img src={google} alt="" />
                         <p className='text-xl text-white'>Lead Software Engineer at Google</p>
                     </div>
-                    <p className='lg:mt-0 mt-3'>Nov 2019 - Present</p>
+                    <p className='lg:mt-0 mt-3 text-white'>Nov 2019 - Present</p>
                 </div>
-                <p>
+                <p className='text-white'>
                     As a Senior Software Engineer at Google, I played a pivotal role in developing innovative solutions for Google's core search algorithms. Collaborating with a dynamic team of engineers, I contributed to the enhancement of search accuracy and efficiency, optimizing user experiences for millions of users worldwide.
                 </p>
             </div>
@@ -24,9 +24,9 @@ const Experience = () => {
                         <img src={youtube} alt="" />
                         <p className='text-xl text-white'>Software Engineer at Youtube</p>
                     </div>
-                    <p className='lg:mt-0 mt-3'>Jan 2017 - Oct 2019</p>
+                    <p className='lg:mt-0 mt-3 text-white'>Jan 2017 - Oct 2019</p>
                 </div>
-                <p>
+                <p className='text-white'>
                     At Youtube, I served as a  Software Engineer, focusing on the design and implementation of backend systems for the social media giant's dynamic platform. Working on projects that involved large-scale data processing and user engagement features, I leveraged my expertise to ensure seamless functionality and scalability.
                 </p>
             </div>
@@ -36,9 +36,9 @@ const Experience = () => {
                         <img src={apple} alt="" />
                         <p className='text-xl text-white'>Junior Software Engineer at Apple</p>
                     </div>
-                    <p className='lg:mt-0 mt-3'>Jan 2016 - Dec 2017</p>
+                    <p className='lg:mt-0 mt-3 text-white'>Jan 2016 - Dec 2017</p>
                 </div>
-                <p>
+                <p className='text-white'>
                     During my tenure at Apple, I held the role of Software Architect, where I played a key role in shaping the architecture of mission-critical software projects. Responsible for designing scalable and efficient systems, I provided technical leadership to a cross-functional team.
                 </p>
             </div>
