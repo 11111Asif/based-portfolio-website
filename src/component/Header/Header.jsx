@@ -1,7 +1,9 @@
+
 import group from '../../assets/Group.png'
 import { MdOutlineFileDownload } from "react-icons/md";
 
 const Header = () => {
+  
     return (
         <div className="bg-[#ffffff] lg:px-24">
             <div className="navbar ">
