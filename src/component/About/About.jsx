@@ -2,7 +2,7 @@ import column from '../../assets/column.png'
 
 const About = () => {
     return (
-        <div className="lg:px-24 px-4 py-10 bg-[#ffffff]">
+        <div className="lg:px-24 px-4 py-10 bg-[#ffffff] ">
             <div className="hero min-h-screen">
                 <div className="hero-content flex-col lg:flex-row">
                     <img

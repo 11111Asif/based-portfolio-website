@@ -5,7 +5,7 @@ import { MdOutlineFileDownload } from "react-icons/md";
 const Header = () => {
   
     return (
-        <div className="bg-[#ffffff] lg:px-24">
+        <div className="bg-[#ffffff] lg:px-24 border-2">
             <div className="navbar ">
                 <div className="navbar-start">
                     <div className="dropdown">

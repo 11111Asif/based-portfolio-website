@@ -11,7 +11,7 @@ const MyProjects = () => {
             </div>
             <div className='py-6'>
                 <div className="hero ">
-                    <div className="hero-content flex-col px-4 lg:flex-row">
+                    <div className="hero-content flex-col lg:flex-row">
                         <img
                             src={image}
                             className="lg:w-[530px] lg:h-[397px] w-[343px] h-[397px] rounded-lg" />
@@ -46,7 +46,7 @@ const MyProjects = () => {
             </div>
              <div className=''>
                 <div className="hero ">
-                    <div className="hero-content flex-col px-4 lg:flex-row">
+                    <div className="hero-content flex-col lg:flex-row">
                         <img
                             src={image2}
                             className="lg:w-[530px] lg:h-[397px] w-[343px] h-[397px] rounded-lg" />

@@ -6,7 +6,7 @@ const Testimonial = () => {
         <div className='lg:px-24 px-4 py-10 bg-white'>
             <h1 className="text-4xl text-black text-center">My <span className='font-bold'>Testimonial</span></h1>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10'>
-                <div className="card bg-white w-auto shadow-xl">
+                <div className="card bg-white  w-auto shadow-xl">
                     <figure className="px-10 pt-10">
                         <img
                             src={frame18}

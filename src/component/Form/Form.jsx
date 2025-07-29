@@ -8,7 +8,7 @@ const Form = () => {
         <div className="lg:px-24 bg-[#ffffff]">
             <div className="hero">
                 <div className="hero-content flex-col lg:flex-row-reverse">
-                    <div className="text-center lg:w-[400px] w-[343px] lg:text-left">
+                    <div className="text-center lg:w-[400px] w-[320px] lg:text-left">
                         <h1 className="text-4xl font-bold text-black">Let’s <span className='font-bold text-[#D9D9D9]'>talk</span> for</h1>
                          <h1 className="text-4xl font-bold text-black mt-3">Something special</h1>
                         <p className="py-6 text-[#71717A]">
@@ -19,19 +19,19 @@ const Form = () => {
                             <h3 className="text-2xl font-bold text-black mt-3">1234567890</h3>
                         </div>
                     </div>
-                    <div className="card bg-[#ffffff] lg:w-[600px] w-[350px] shrink-0">
+                    <div className="card bg-[#ffffff] lg:w-[600px] w-[320px] shrink-0">
                         <form className="card-body">
                             <div className="form-control">
-                                <input type="text" placeholder="Your name" className="lg:w-[500px] w-[320px] h-[56px] border-2 px-3 bg-white rounded-md border-black" required />
+                                <input type="text" placeholder="Your name" className="lg:w-[500px] w-[300px] h-[56px] border-2 px-3 bg-white rounded-md border-black" required />
                             </div>
                             <div className="form-control">
-                                <input type="email" placeholder="Email" className="lg:w-[500px] w-[320px] h-[56px] border-2 px-3 bg-white rounded-md border-black" required />
+                                <input type="email" placeholder="Email" className="lg:w-[500px] w-[300px] h-[56px] border-2 px-3 bg-white rounded-md border-black" required />
                             </div>
                             <div className="form-control">
-                                <input type="text" placeholder="Your website (If exists)" className="lg:w-[500px] w-[320px] h-[56px] border-2 px-3 bg-white rounded-md border-black" required />
+                                <input type="text" placeholder="Your website (If exists)" className="lg:w-[500px] w-[300px] h-[56px] border-2 px-3 bg-white rounded-md border-black" required />
                             </div>
                             <div className="form-control">
-                                <textarea className="lg:w-[500px] w-[320px] h-[140px] bg-white border-2 border-black rounded-md py-4 px-4" placeholder="How can I help?*" required></textarea>
+                                <textarea className="lg:w-[500px] w-[300px] h-[140px] bg-white border-2 border-black rounded-md py-4 px-4" placeholder="How can I help?*" required></textarea>
                             </div>
 
                             <div className='lg:flex gap-5'>
